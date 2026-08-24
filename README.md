@@ -1,6 +1,6 @@
 # 💫 About Me:
-PORTFOLIO : https://dhruvs-portfolio-vert.vercel.app/
-🌱 I’m currently learning Embedded Systems & Software Integration<br>🪫 Developing a gesture-controlled hardware peripheral using sensor fusion algorithms and software integration.<br>📌 Open to collaborate on ambitious, startup-potential hardware/software products or fast-paced engineering teams.<br>📧 Ask me anything: dhruvtripathi1141@gmail.com<br>⚡ Equal enthusiast on electronics and Software
+PORTFOLIO : https://dhruvs-portfolio-vert.vercel.app/ <br>
+🌱 I’m currently learning Embedded Systems & Software Integration.<br>📌 Open to collaborate on ambitious, startup-potential hardware/software products or fast-paced engineering teams.<br>📧 Ask me anything: dhruvtripathi1141@gmail.com<br>⚡ Equal enthusiast on electronics and Software
 
 
 ## 🌐 Socials:
